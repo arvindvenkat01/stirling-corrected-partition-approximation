@@ -4,9 +4,9 @@ This repository contains the Python code and results for the paper:
 
 **Partition Approximation via the Cube Root of Binomial-Partition Ratios: A First-Principles Derivation with Stirling-Based Correction**
 
-### Pre-print (Zenodo) : [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17083711.svg)](https://doi.org/10.5281/zenodo.)
-* **DOI** - 10.5281/zenodo.
-* **URL** - https://doi.org/10.5281/zenodo.
+### Pre-print (Zenodo) : [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17110539.svg)](https://doi.org/10.5281/zenodo.17110539)
+* **DOI** - 10.5281/zenodo.17110539
+* **URL** - https://doi.org/10.5281/zenodo.17110539
 
 
 ## Abstract
@@ -83,7 +83,18 @@ Saved 'partition_error_summary_adaptive.csv'
 
 If you use this work, please cite the paper using the Zenodo archive.
 
-
+@misc{naladiga_venkat_2025_17110539,
+  author       = {Naladiga Venkat, Arvind},
+  title        = {Partition Approximation via the Cube Root of
+                   Binomial-Partition Ratios: A First-Principles
+                   Derivation with Stirling-Based Correction
+                  },
+  month        = sep,
+  year         = 2025,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.17110539},
+  url          = {https://doi.org/10.5281/zenodo.17110539},
+}
 
 ---
 
