@@ -1,0 +1,23 @@
+============================================================
+THEORETICAL HYBRID FORMS: EXTENDED COMPARISON
+============================================================
+Pre-computing partition values up to n=80000...
+Pre-computation done in 4.89 seconds.
+
+================================================================================
+STARTING EXPERIMENT
+Experiment finished.
+
+Experiment completed in 0.00 seconds
+
+Error Summary Table:
+      Range             Formula Mean Error (%) Median Error (%) Max Error (%) Min Error (%)
+   100-1000 Theoretical (Fixed)       2.190325         1.874146      4.310259      1.389893
+   100-1000    Adaptive Scaling       2.026640         1.706663      4.172208      1.216216
+   100-1000     Hardy-Ramanujan       2.265763         1.920853      4.571356      1.415244
+ 1001-10000 Theoretical (Fixed)       0.623758         0.570314      0.985293      0.442108
+ 1001-10000    Adaptive Scaling       0.439967         0.385813      0.806330      0.255870
+ 1001-10000     Hardy-Ramanujan       0.629155         0.574505      0.997917      0.444620
+10001-80000 Theoretical (Fixed)       0.229213         0.207567      0.421586      0.156579
+10001-80000    Adaptive Scaling       0.053953         0.029399      0.235068      0.000850
+10001-80000     Hardy-Ramanujan       0.229942         0.208118      0.423869      0.156892
